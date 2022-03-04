@@ -19,10 +19,10 @@ Simple shell script for setting up Mac using [Homebrew]:beer:.
 - [Visual Studio Code]
 
 [Git]: https://git-scm.com "https://git-scm.com"
-[JupyterLab]: https://jupyter.org
-[iTerm2]: https://iterm2.com
-[GitHub]: https://github.com
-[Visual Studio Code]: https://code.visualstudio.com
+[JupyterLab]: https://jupyter.org "https://jupyter.org"
+[iTerm2]: https://iterm2.com "https://iterm2.com"
+[GitHub]: https://github.com "https://github.com"
+[Visual Studio Code]: https://code.visualstudio.com "https://code.visualstudio.com"
 
 ## Communication Apps
 
@@ -31,10 +31,10 @@ Simple shell script for setting up Mac using [Homebrew]:beer:.
 - [Slack]
 - [Zoom]
 
-[Messenger]: https://www.messenger.com
-[Discord]: https://discord.com
-[Slack]: https://slack.com
-[Zoom]: https://zoom.us
+[Messenger]: https://www.messenger.com "https://www.messenger.com"
+[Discord]: https://discord.com "https://discord.com"
+[Slack]: https://slack.com "https://slack.com"
+[Zoom]: https://zoom.us "https://zoom.us"
 
 ## Web Tools
 
@@ -42,9 +42,9 @@ Simple shell script for setting up Mac using [Homebrew]:beer:.
 - [Microsoft Edge]
 - [Welly]
 
-[SurfShark]: https://surfshark.com
-[Microsoft Edge]: https://www.microsoft.com/en-us/edge
-[Welly]: https://wellybbs.com/support/
+[SurfShark]: https://surfshark.com "https://surfshark.com"
+[Microsoft Edge]: https://www.microsoft.com/en-us/edge "https://www.microsoft.com/en-us/edge"
+[Welly]: https://wellybbs.com/support/ "https://wellybbs.com/support/"
 
 ## Others
 
@@ -53,7 +53,7 @@ Simple shell script for setting up Mac using [Homebrew]:beer:.
 - [Obsidian]
 - [Spotify]
 
-[Rectangle]: https://rectangleapp.com
-[Notion]: https://www.notion.so
-[Obsidian]: https://obsidian.md
-[Spotify]: https://www.spotify.com
+[Rectangle]: https://rectangleapp.com "https://rectangleapp.com"
+[Notion]: https://www.notion.so "https://www.notion.so"
+[Obsidian]: https://obsidian.md "https://obsidian.md"
+[Spotify]: https://www.spotify.com "https://www.spotify.com"
